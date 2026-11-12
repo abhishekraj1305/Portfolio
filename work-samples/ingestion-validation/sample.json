@@ -1,0 +1,5 @@
+[
+ {"id":"order-1","updated_at":"2026-11-01T00:00:00+00:00","amount":120},
+ {"id":"order-2","updated_at":"2026-11-01T00:00:00+00:00","amount":80},
+ {"id":"invalid","updated_at":"2026-11-01T00:00:00+00:00","amount":-5}
+]
